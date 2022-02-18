@@ -1,2 +1,2 @@
-# project-euler-algorithms
-Algorithms for the Project Euler problems
+# Project Euler algorithms
+Algorithms for the Project Euler problems.
